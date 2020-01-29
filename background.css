@@ -1,0 +1,7 @@
+.bg-color-grey {
+	background-image: url('logo.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-size: 100% 100%;
+  
+}
